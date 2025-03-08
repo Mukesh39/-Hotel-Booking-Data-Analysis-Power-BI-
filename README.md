@@ -76,7 +76,14 @@ Open Power BI and Load the Dataset
 Use SQL Queries (if applicable) to preprocess data before visualization.
 
 📸 Dashboard Previews
-
+![Image](https://github.com/user-attachments/assets/34bf3127-51da-42ea-b71b-26e40223ffbb)
+![Image](https://github.com/user-attachments/assets/e2689faa-4d6e-4ff2-8330-9849239b52ae)
+![Image](https://github.com/user-attachments/assets/bfc17216-df75-4492-a511-93fceb680a4f)
+![Image](https://github.com/user-attachments/assets/5e56f7e2-5acb-445b-ab39-06efe75365e3)
+![Image](https://github.com/user-attachments/assets/da079605-b3a8-49ca-81c7-9bc3d4ea7b2a)
+![Image](https://github.com/user-attachments/assets/e61fe6d1-80fe-44fa-b763-21ce18b1db52)
+![Image](https://github.com/user-attachments/assets/92adfae0-4ff3-4e40-9375-ac703ce4b0b2)
+![Image](https://github.com/user-attachments/assets/86744aba-3628-40c6-8daa-52998677892f)
 
 
 🎯 Key Insights
