@@ -110,6 +110,6 @@ Contributions are welcome! Feel free to fork, submit issues, or create pull requ
 
 📞 Contact
 
-💼 LinkedIn: Your [LinkedIn](https://www.linkedin.com/in/kumarmukesh95/)📧 Email: muk.786422@gmail.com
-
+💼 LinkedIn: Your [LinkedIn](https://www.linkedin.com/in/kumarmukesh95/)
+📧 Email: muk.786422@gmail.com
 ⭐ Star this repo if you found it helpful! ⭐
